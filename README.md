@@ -9,6 +9,8 @@ Template for node.js react app
   - ```npm install react-scripts --save```
   - ```npm start```
 3. BAM, YOU'RE DONE
+  - It runs
+  - Save files and see your changes live
 
 # Getting Started with Create React App
 
